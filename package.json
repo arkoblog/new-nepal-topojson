@@ -1,6 +1,6 @@
 {
   "name": "new-nepal-topojson",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "An npm package that provides topojson data for new administrative boundaries of Nepal.",
   "main": "index.js",
   "scripts": {
